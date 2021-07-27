@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainKranch
 - 👀 I’m interested in developing myself.
-- 🌱 I’m currently learning deep learing, Haskell, and linux.
+- 🌱 I’m currently learning deep learing, Haskell, Java-Script and linux.
 - 💞️ I’m looking to collaborate on python projects, apps.
 - 📫 How to reach me dm me.
 
