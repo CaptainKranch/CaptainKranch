@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CaptainKranch
-- 👀 I’m interested in developing myself.
-- 🌱 I’m currently learning deep learing, Haskell, Java-Script and linux.
-- 💞️ I’m looking to collaborate on python projects, apps.
-- 📫 How to reach me dm me.
+## CaptainKranch
 
-<!---
-CaptainKranch/CaptainKranch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Using --> Python, Airflow, Postgres, Nix, NixOS.
+* Interested in Linux, Networking, Data.
